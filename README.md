@@ -1,4 +1,4 @@
-# VBA-challeng
+# VBA-challenge
 VBA homework
 
 Useing the VBA skills learned in class. 
